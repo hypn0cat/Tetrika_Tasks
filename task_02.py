@@ -30,4 +30,5 @@ def count_total_animals(members):
 
 if __name__ == '__main__':
     print("Please wait...")
-    count_total_animals(cat.categorymembers)
+    count_total_animals(cat.categorymembers)  # Ответ в файле task_02_out.txt
+
