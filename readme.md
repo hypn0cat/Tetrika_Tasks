@@ -1,6 +1,6 @@
 # Tetrika Tasks
 
-Rest API demo: https://guarded-atoll-46025.herokuapp.com/api/1.0
+REST API demo: https://guarded-atoll-46025.herokuapp.com/api/1.0
 
 Usage:
     `curl -X POST -H "Content-Type: application/json" -d '{"lesson": [1594692000, 1594695600],
